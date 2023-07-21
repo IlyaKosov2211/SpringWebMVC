@@ -12,7 +12,6 @@ import java.util.stream.Collectors;
 
 
 @Repository
-// Stub
 public class PostRepository{
 
     private final AtomicLong postID;
